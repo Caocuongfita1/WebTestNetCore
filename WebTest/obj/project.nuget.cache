@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f7LWTxIUDQLP0uTHABJauSeb1z/drImuPnx6CewCKu0k+oyEpcCu0MYSMBSoWXZeZSe6uFeNidcJGMi4zMtJqQ==",
+  "dgSpecHash": "obx3O3Kz7fo01EjZxDCDLALNerXqIGL56d5skxRaFX6Om3iqMSxRXTRA4JEJDOZdKn67J5fzds/WXoLIfaWi0g==",
   "success": true,
-  "projectFilePath": "C:\\CuongDC\\Test\\WebTest\\WebTest\\WebTest.csproj",
+  "projectFilePath": "C:\\CuongDC\\Test\\WebTestNetCore\\WebTest\\WebTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

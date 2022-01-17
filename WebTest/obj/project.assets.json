@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CuongDC\\Test\\WebTest\\WebTest\\WebTest.csproj",
+      "projectUniqueName": "C:\\CuongDC\\Test\\WebTestNetCore\\WebTest\\WebTest.csproj",
       "projectName": "WebTest",
-      "projectPath": "C:\\CuongDC\\Test\\WebTest\\WebTest\\WebTest.csproj",
+      "projectPath": "C:\\CuongDC\\Test\\WebTestNetCore\\WebTest\\WebTest.csproj",
       "packagesPath": "C:\\Users\\nhsos10\\.nuget\\packages\\",
-      "outputPath": "C:\\CuongDC\\Test\\WebTest\\WebTest\\obj\\",
+      "outputPath": "C:\\CuongDC\\Test\\WebTestNetCore\\WebTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhsos10\\AppData\\Roaming\\NuGet\\NuGet.Config",
